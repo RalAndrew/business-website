@@ -33,13 +33,13 @@
     SKELETON
 -------------------------------------------------------------------*/
  body {
-     color: #666666;
+     color: green;
      font-size: 15px;
      font-family: 'Dosis', sans-serif;
      line-height: 1.80857;
 }
  a {
-     color: #1f1f1f;
+     color: pink;
      text-decoration: none !important;
      outline: none !important;
      -webkit-transition: all .3s ease-in-out;
